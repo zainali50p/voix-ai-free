@@ -33,6 +33,7 @@
 ---
 
 **## 📥 Download & Installation**
+No need to install any of this just run the exe file provided in the release.
 
 1. Clone the repository:  
    ```bash
@@ -71,7 +72,7 @@ Text-to-Speech, AI Voices, Neural TTS, Free TTS, Multi-language TTS, Voix AI, Sp
 **📝 Release Notes**
 
 Version: v1.0.0
-Release Date: YYYY-MM-DD
+Release Date: 2025-oct-08
 
 Highlights:
 
