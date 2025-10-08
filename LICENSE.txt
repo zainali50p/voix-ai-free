@@ -1,0 +1,6 @@
+MIT License
+
+Copyright (c) 2025 Zain Ali
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+(standard MIT text — you can copy full MIT from choosealicense.com)
